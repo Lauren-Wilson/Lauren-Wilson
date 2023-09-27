@@ -9,4 +9,4 @@
 
 👯 I'm looking to collaborate on research based/exploratory projects in computer vision. I enjoy advocating for ethical and representative data professionals. You can also find me connecting people to resources for careers in tech or in the [Data Angels](https://www.dataangels.org/) Slack community.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alaurenwilson/)https://www.linkedin.com/in/alaurenwilson/)
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alaurenwilson/)
