@@ -7,6 +7,6 @@
 
 🌱 I'm currently working on obtaining my AWS Solutions Architect certification to widen my deployment abilities and combine with my Machine Learning skillset.
 
-👯 I'm looking to collaborate on research based/exploratory projects in computer vision. I enjoy advocating for ethical and representative data professionals. You can also find me connecting people to resources for careers in tech or in the [Data Angels](https://www.dataangels.org/) Slack community.
+👯 I'm looking to collaborate on research based/exploratory projects in computer vision. I enjoy advocating for ethical and representative data projects. You can also find me connecting people to resources for careers in tech or in the [Data Angels](https://www.dataangels.org/) Slack community.
 
 📫 You can reach me on LinkedIn [here](https://www.linkedin.com/in/alaurenwilson/)
