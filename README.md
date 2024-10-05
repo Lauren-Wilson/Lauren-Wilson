@@ -3,7 +3,7 @@
 
 💼 I'm an Associate Data Scientist at G.E.H.A with a background in time series forecasting, product analysis, and machine learning in the cloud.
 
-🚀 I'm interested in all things healthcare | product analytics | business optimization, specifically improving the user's experience. My work has been focused on A/B testing to determine campaign lift, reporting & insights, and projecting member enrollment using Python, R, & SQL.
+🚀 I'm interested in all things healthcare | product analytics | business optimization, specifically improving the user's experience & helping to identify and correct business bottlenecks and blindspots. My work has been focused on A/B testing to determine campaign lift, reporting & insights, and projecting member enrollment using Python, R, & SQL.
 
 🌱 I'm currently working on obtaining my AWS Solutions Architect certification to widen my deployment abilities and combine with my Machine Learning skillset.
 
